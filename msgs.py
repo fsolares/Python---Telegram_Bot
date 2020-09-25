@@ -60,7 +60,7 @@ pgit = """Eu e o Felipe agradeçemos imensamente pelo contato.
 *Até a Próxima!*"""
 
 
-email = "solares.fs@gmail.com"
+email = "YOUR email"
 
 pthreat = """Suspeitei desde o princípio!"""
 
