@@ -1,0 +1,15 @@
+# Stickers and Emojis ids from Telegram
+
+sbot_offline = 'CAACAgIAAxkBAAEBJ4dfKzsQ8p8WS2ifMX8q2vYAATdaWmEAAv4CAAKc1ucKd9r9CJjgrWwaBA'
+sbot_hello = 'CAACAgIAAxkBAAM2XyM26qVpj8WmVwbnfya-4Y68IoYAAvUCAAKc1ucKAz96gxAuDm8aBA'
+sbot_back = 'CAACAgIAAxkBAAM5XyM5aWQBrtzqBIAJ5cbJiD0NnbAAAgoDAAKc1ucKq_DAv9FWoagaBA'
+sbot_thumbsup = 'CAACAgIAAxkBAAM6XyM55DvffcXp4aCQUUVFYPC9N9IAAvMCAAKc1ucK4C4EcYUPwQIaBA'
+sbot_conq = 'CAACAgIAAxkBAAM7XyM6B-qWJ8E6k_KYSJucXPQmgSIAAgIDAAKc1ucKFOQptRMv47QaBA'
+sbot_spit = 'CAACAgIAAxkBAAM8XyM6QDeWAl6CE5yQyZK5W46Vy9UAAvQCAAKc1ucK5cb1_wI_Kn0aBA'
+sbot_threat = 'CAACAgIAAxkBAAM9XyM6fTl6Ddn3V899TxCjxKF6ezAAAgUDAAKc1ucK44bXMYoEjwwaBA'
+sbot_force = 'CAACAgIAAxkBAAP5XyNnDWbjCQdDLSgzczb3pH4hgpsAAhADAAKc1ucKKuTOyBeUMd8aBA'
+sbot_looking = 'CAACAgIAAxkBAAIBDF8ja1p8GudzHDztfe55eQM3aqYVAAIDAwACnNbnCiIeeF_mReB5GgQ'
+sbot_nope = 'CAACAgIAAxkBAAIBDl8ja_cGN3h54ORCrOInAqqGKO_YAAIIAwACnNbnCpOlu1AM_jZqGgQ'
+ebot_smile = u'\U0001F601'
+ebot_thumbsup = u'\U0001F44D'
+ebot_clap = 'u\U0001F44F'
